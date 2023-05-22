@@ -1,0 +1,60 @@
+*{
+  margin: 0;
+}
+
+.main_App{
+  background-color: wheat;
+  color: maroon;
+  padding-top: 50px;
+  text-align: center;
+  height: 92.3vh;
+}
+
+.App {
+  text-align: center;
+  background-color: maroon;
+  box-sizing: border-box;
+  border: 1px solid maroon;
+  border-radius: 15px;
+  margin: auto;
+  margin-top: 30px;
+  width: 50vh;
+  height: 40vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.btn_count{
+  background-color: wheat;
+  color: maroon;
+  border: 1px solid yellow;
+  border-radius: 5px;
+  padding: auto;
+  padding: 9px 26px;
+  margin: 95px 20px;
+  font-size: 40px;
+}
+.btn_count2{
+  background-color: wheat;
+  color: maroon;
+  border: 1px solid yellow;
+  border-radius: 5px;
+  padding: auto;
+  padding: 6px 18px;
+  margin: 95px 0;
+  font-size: 50px;
+}
+
+h3{
+  color: wheat;
+  font-size: 60px;
+  margin-left: 10px;
+  margin-top: 85px;
+}
+
+h1{
+  font-size: 60px;
+  text-shadow: 1px 1px 0 yellow,rgb(50, 1, 1) 2px 2px 0;color:  maroon;
+}
+
